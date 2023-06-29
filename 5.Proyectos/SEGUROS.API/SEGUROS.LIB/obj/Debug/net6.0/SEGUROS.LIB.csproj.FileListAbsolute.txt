@@ -1,0 +1,12 @@
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\bin\Debug\net6.0\SEGUROS.LIB.deps.json
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\bin\Debug\net6.0\SEGUROS.LIB.dll
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\bin\Debug\net6.0\SEGUROS.LIB.pdb
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.dll
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\refint\SEGUROS.LIB.dll
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\SEGUROS.LIB.pdb
+C:\Users\Usuario\Downloads\EXAMEN CAJA TRUJILLO\Solucion\5.Proyectos\SEGUROS.API\SEGUROS.LIB\obj\Debug\net6.0\ref\SEGUROS.LIB.dll
